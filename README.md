@@ -1,4 +1,4 @@
-# Ashish Pandey - Portfolio
+# Ashish Pandey
 
 Welcome to my portfolio website! This site showcases my skills, projects, and professional experience in data science and machine learning. You can find detailed information about my background, education, and projects below.
 
