@@ -1,5 +1,47 @@
-title: Ashish Pandey
-logo: /assets/imgs/ashish.jpeg
-#description: text below image
-show_downloads: False
-theme: jekyll-theme-minimal
+# Site settings
+title: Ashish Pandey's Portfolio
+email: ap2934@njit.edu
+description: >- # this means to ignore newlines until "baseurl:"
+  This is the portfolio of Ashish Pandey, showcasing skills, projects, and professional experience in data science and machine learning.
+# baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://dettrax.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+
+# Build settings
+theme: minima
+plugins:
+  - jekyll-feed
+
+# Exclude from processing.
+# The following items will not be processed, by default. Create a custom list to override the default setting.
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/
+
+# Optional features
+show_excerpts: true # display excerpts on the homepage
+
+# Social links
+# twitter_username: yourTwitter # Change this to your twitter handle
+github_username:  Dettrax
+
+# Markdown settings
+markdown: kramdown
+kramdown:
+  input: GFM # GitHub Flavored Markdown
+  auto_ids: true
+  syntax_highlighter: rouge
+
+# Plugins (if using GitHub Pages add gems to Gemfile instead)
+gems:
+  - jekyll-feed # Creates an Atom (RSS-like) feed of your posts
+
+# SEO settings
+permalink: /:categories/:title/
+
+# Analytics settings
+# google_analytics: UA-XXXXXXXXX-X # Uncomment and replace with your Google Analytics ID
