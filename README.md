@@ -4,7 +4,11 @@ Welcome to my portfolio website! This site showcases my skills, projects, and pr
 
 ## About Me
 
-I am currently pursuing a Master's in Data Science at the New Jersey Institute of Technology (NJIT) with a GPA of 3.75. My areas of expertise include Python, C++, machine learning, AI, neural networks, reinforcement learning, and more.
+I am currently pursuing a Master's in Data Science at the New Jersey Institute of Technology (NJIT), where I maintain a GPA of 3.75. My research focuses on advancing the field of machine learning and AI through innovative projects and applications. I specialize in Python, C++, machine learning, AI, neural networks, reinforcement learning, and more.
+
+At NJIT, I am part of a cutting-edge research team working on integrating state-space models with graph neural networks to enhance their predictive capabilities in dynamic environments. This work has led to significant improvements in model generalization, making it a cornerstone of my research endeavors.
+
+In addition to my academic pursuits, I engage in applied research, such as developing advanced predictive models for financial markets and improving disease prediction algorithms using deep learning techniques applied to FMRI data.
 
 - **LinkedIn:** [linkedin.com/in/ashish-pandey-005239315](https://www.linkedin.com/in/ashish-pandey-005239315/)
 - **GitHub:** [github.com/Dettrax](https://github.com/Dettrax)
@@ -21,7 +25,6 @@ I am currently pursuing a Master's in Data Science at the New Jersey Institute o
 - **Data Visualization:** matplotlib, Power BI, Tableau, Data Visualization, Statistical Analysis
 - **Testing & Experimentation:** A/B testing
 - **Data Tools:** MS Excel, Information retrieval, Data scraping, selenium, Statistics, dynamic programming
-- **Other Skills:** Analytical Thinking, Communication, Problem Solving, Large Language Models (LLM)
 
 ## Education
 
@@ -46,7 +49,7 @@ Developed an advanced oil price prediction system combining ARIMA and GARCH mode
 **May 2024 - Present**
 - Enhanced the TransformerG2G model, integrating selective state-space MAMBA models to achieve superior generalization across benchmark datasets for temporal graphs, resulting in a 37% performance improvement.
 - Conducted advanced research on Alzheimer's disease prediction using Wulver's High-Performance Computing system, applying deep learning models and selective state-space analysis to fMRI data, aiming to improve early detection capabilities.
-- Working on development of a hierarchical encoder for JAMBA models, focusing on embedding in hyperbolic spaces to revolutionize the handling and analysis of complex network data, potentially enhancing the accuracy and efficiency of data representation in LLM applications.
+- Working on the development of a hierarchical encoder for JAMBA models, focusing on embedding in hyperbolic spaces to revolutionize the handling and analysis of complex network data, potentially enhancing the accuracy and efficiency of data representation in LLM applications.
 
 ### Associate Data Engineer | Accenture | Mumbai, IN
 **July 2021 – April 2023**
@@ -55,6 +58,12 @@ Developed an advanced oil price prediction system combining ARIMA and GARCH mode
 - Modernized legacy Java code by transitioning RESTful API projects to Python, optimizing them to meet AWS Lambda’s 15-minute execution window. Developed and maintained CI/CD pipelines using GitLab, enhancing the speed and reliability of microservice deployments.
 - Led the development and deployment of Python packages, utilizing CI/CD pipelines for systematic management on JFrog. Implemented Datadog dashboards to monitor cloud resource utilization, resulting in improved error detection and handling through monitoring of Lambda, Redshift, State Machine, S3, Glue Jobs, SNS, and SQS.
 - Mentored junior engineers and conducted training sessions on cloud technologies and best practices, fostering a culture of continuous learning and improvement within the team.
+
+## Publications
+
+### Xenia – A Smart Tour Planning And Recommendation Using Crowdsourced Data
+In this research paper published in the International Journal of Research and Analytical Reviews (IJRAR), I explored how crowdsourced data can be used to enhance the effectiveness of travel apps. By incorporating AI and natural language processing, this study offers a novel approach to improving tourism experiences through personalized recommendations and support for local businesses. This work is a testament to my commitment to applying advanced technology to real-world challenges.
+- **Read the paper here:** [IJRAR1CCP011](https://www.ijrar.org/viewfull.php?&p_id=IJRAR1CCP011)
 
 ## Leadership and Recognitions
 
