@@ -35,12 +35,15 @@ September 2023 - May 2025
 ## Projects
 
 ### [Prudential Dataset](https://github.com/Dettrax/PrudentialDataset)
+![Prudential Dataset](assets/imgs/prud.webp)
 Led a risk assessment optimization project for Prudential Life Insurance, developing a machine learning algorithm to assign risk factors using minimal customer data. Utilized Principal Component Analysis (PCA) and boosting algorithms on a 2015 dataset, achieving top Kaggle performance with 23% fewer features, while maintaining significant variance retention.
 
 ### [Malaria Topic Modelling Project in R](https://github.com/Dettrax/malaria-articles-analysis)
+![Malaria Topic Modelling](assets/imgs/malaria.webp)
 Developed and implemented a data processing pipeline to systematically extract, clean, and organize data from a vast collection of malaria-related articles. Utilized clustering and natural language processing (NLP) techniques to identify main themes and significant keywords, revealing prevalent research areas and enhancing insights into the malaria landscape.
 
 ### [Multimodal Forecasting Model for Stock Price Prediction](https://github.com/Dettrax/multimodal-forecasting-model-for-stock-price-prediction)
+![Stock Price Prediction](assets/imgs/stock-pred.webp)
 Developed an advanced oil price prediction system combining ARIMA and GARCH models for price and volatility Time Series forecasting, respectively. Achieved a 17% performance enhancement over traditional attention mechanisms by integrating the novel MAMBA model. Optimized system performance with LSTM models via Optuna, incorporating XGBoost and leveraging historical data and news sentiments for improved predictive accuracy.
 
 ## Professional Experience
