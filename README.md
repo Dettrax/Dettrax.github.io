@@ -75,7 +75,7 @@ In this research paper published in the International Journal of Research and An
 ## Certification
 
 - Bloomberg Market Concepts - [Certificate](https://portal.bloombergforeducation.com/certificates/ZPWL3VNUQ7W4WREGK8BQWABX)
-- Introduction to Relational Databases (RDBMS) - IBM - https://www.coursera.org/account/accomplishments/verify/T0MCYV8YQDK0
+- Introduction to Relational Databases (RDBMS) - [IBM](https://www.coursera.org/account/accomplishments/verify/T0MCYV8YQDK0)
 
 ## Contact
 
