@@ -4,11 +4,9 @@ Welcome to my portfolio website! This site showcases my skills, projects, and pr
 
 ## About Me
 
-I am currently pursuing a Master's in Data Science at the New Jersey Institute of Technology (NJIT), where I maintain a GPA of 3.75. My research focuses on advancing the field of machine learning and AI through innovative projects and applications. I specialize in Python, C++, machine learning, AI, neural networks, reinforcement learning, and more.
+I am a passionate Data Science Master’s student at the New Jersey Institute of Technology. My academic and research journey has been focused on exploring innovative solutions in machine learning, deep learning, and natural language processing. Specifically, I am interested in developing faster alternatives to transformers by leveraging state-space models. As a Research Assistant, I have worked on projects ranging from dynamic graph embedding to Alzheimer’s disease prediction, where I have developed models like MambaG2G that push the boundaries of existing technologies.
 
-At NJIT, I am part of a cutting-edge research team working on integrating state-space models with graph neural networks to enhance their predictive capabilities in dynamic environments. This work has led to significant improvements in model generalization, making it a cornerstone of my research endeavors.
-
-In addition to my academic pursuits, I engage in applied research, such as developing advanced predictive models for financial markets and improving disease prediction algorithms using deep learning techniques applied to FMRI data.
+Beyond research, I have practical experience in cloud infrastructure optimization, data pipeline implementation, and software development from my time at Accenture. I am deeply committed to advancing research that not only challenges the status quo but also has a tangible, positive impact on human well-being. Through my work, I strive to contribute to fields that can make a difference in the world.
 
 - **LinkedIn:** [linkedin.com/in/ashish-pandey-005239315](https://www.linkedin.com/in/ashish-pandey-005239315/)
 - **GitHub:** [github.com/Dettrax](https://github.com/Dettrax)
