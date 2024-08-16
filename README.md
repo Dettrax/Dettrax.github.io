@@ -49,8 +49,9 @@ Developed an advanced oil price prediction system combining ARIMA and GARCH mode
 ### Research Assistant | NJIT | Newark, NJ
 **May 2024 - Present**
 - Developed and implemented MambaG2G, an innovative adaptation of the Mamba architecture for dynamic graph embedding, integrating selective state space models to capture complex temporal dependencies. Achieved superior performance compared to [TransformerG2G](https://arxiv.org/abs/2307.02588) on the Temporal Graph Benchmarks , demonstrating improved ability to model long-range interactions and adaptive time-stepping in evolving graph structures.
-- Conducted advanced research on Alzheimer's disease prediction using Wulver's High-Performance Computing system, applying deep learning models and selective state-space analysis to fMRI data, aiming to improve early detection capabilities.
-- Working on the development of a hierarchical encoder for JAMBA models, focusing on embedding in hyperbolic spaces to revolutionize the handling and analysis of complex network data, potentially enhancing the accuracy and efficiency of data representation in LLM applications.
+- Engaged in cutting-edge research on Alzheimer's disease prediction using Wulver's High-Performance Computing system, applying advanced deep learning models and selective state-space analysis to fMRI data. This work is poised to transform diagnostic approaches by enhancing early detection capabilities.
+- Leading the development of an innovative hierarchical encoder for JAMBA models, specifically tailored for embedding in hyperbolic spaces. This research aims to revolutionize the handling and analysis of complex network data by leveraging the unique properties of hyperbolic geometry, potentially enhancing the accuracy and efficiency of data representation in LLM applications.
+
 
 ### Associate Data Engineer | Accenture | Mumbai, IN
 **July 2021 – April 2023**
