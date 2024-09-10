@@ -64,7 +64,23 @@ Developed an advanced oil price prediction system combining ARIMA and GARCH mode
 ## Publications
 
 ### Xenia – A Smart Tour Planning And Recommendation Using Crowdsourced Data
-In this research paper published in the International Journal of Research and Analytical Reviews (IJRAR), I explored how crowdsourced data can be used to enhance the effectiveness of travel apps. By incorporating AI and natural language processing, this study offers a novel approach to improving tourism experiences through personalized recommendations and support for local businesses. This work is a testament to my commitment to applying advanced technology to real-world challenges.
+The paper "Xenia - A Smart Tour Planning And Recommendation Using Crowdsourced Data" presents the design and implementation of a mobile application aimed at enhancing the tour planning experience for users. The app leverages technologies like AI, NLP, and recommender systems to provide personalized tour recommendations and streamline the planning process. The key features of the app include:
+
+- Personalized Recommendations: The app utilizes a recommender system that takes into account user preferences such as climate, budget, travel method, and trip duration to suggest suitable tour destinations.
+
+- Virtual Tour Guide: Once a tour is selected, the app offers a virtual tour guide feature that utilizes live interactive maps to guide users through the tour, providing information about various checkpoints along the way.
+
+- Shopping Recommendations: The app also includes a shopping tab that suggests items based on the user's current location, promoting local businesses and enhancing the overall tour experience.
+
+- Crowdsourced Data: The app's recommender system is powered by NLP techniques that analyze past user reviews and social media data to extract relevant information about tours, ensuring recommendations are up-to-date and accurate.
+
+- Local Business Integration: The app provides a platform for local businesses to advertise their services to users, fostering a mutually beneficial relationship between tourists and local establishments.
+
+The paper concludes that the Xenia app successfully achieves its goal of providing users with a comprehensive and interactive tour planning experience. By incorporating personalized recommendations, a virtual tour guide, shopping suggestions, and crowdsourced data, the app empowers users to make informed decisions and optimize their travel itineraries. Additionally, the integration of local businesses contributes to the growth of the local economy and enhances the overall tourism ecosystem. The app's user-friendly interface and seamless functionality further contribute to its effectiveness in simplifying the tour planning process and enriching the travel experience for users.
+
+
+Sources and related content
+
 - **Read the paper here:** [IJRAR1CCP011](https://www.ijrar.org/viewfull.php?&p_id=IJRAR1CCP011)
 
 ### A Comparative Study on Dynamic Graph Embedding based on Mamba and Transformers
