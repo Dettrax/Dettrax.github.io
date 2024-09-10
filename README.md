@@ -67,6 +67,18 @@ Developed an advanced oil price prediction system combining ARIMA and GARCH mode
 In this research paper published in the International Journal of Research and Analytical Reviews (IJRAR), I explored how crowdsourced data can be used to enhance the effectiveness of travel apps. By incorporating AI and natural language processing, this study offers a novel approach to improving tourism experiences through personalized recommendations and support for local businesses. This work is a testament to my commitment to applying advanced technology to real-world challenges.
 - **Read the paper here:** [IJRAR1CCP011](https://www.ijrar.org/viewfull.php?&p_id=IJRAR1CCP011)
 
+### A Comparative Study on Dynamic Graph Embedding based on Mamba and Transformers
+The paper I wrote, titled "A Comparative Study on Dynamic Graph Embedding based on Mamba and Transformers," delves into the exciting field of dynamic graph embedding, which is crucial for understanding the evolving nature of networks in various domains. The key focus of my research was to address the scalability limitations of transformer-based models, which, despite their ability to capture long-range dependencies in temporal graph data, face challenges due to their quadratic computational complexity.
+
+To tackle this, I introduced three novel models: TransformerG2G with graph convolutional networks, MambaG2G, and MambaG2G with graph isomorphism network edge convolutions. The MambaG2G models leverage the state space model architecture, specifically the Mamba model, known for its linear complexity and efficiency in handling long sequences.
+
+Through extensive experiments on multiple benchmark datasets, I demonstrated that my Mamba-based models achieve comparable or even superior performance to transformer-based approaches in link prediction tasks. Importantly, they offer significant computational advantages, especially when dealing with longer sequences. The MambaG2G variants consistently outperformed transformer-based models on datasets with high temporal variability, showcasing their ability to capture complex temporal patterns effectively.
+
+Furthermore, I provided insights into the learned temporal dependencies by analyzing attention weights and state matrices, further highlighting the models' capabilities. By effectively combining state-space models with graph neural networks, my work addresses key limitations of previous approaches and contributes to the advancement of efficient temporal graph representation learning.
+
+In conclusion, my research offers promising directions for scaling dynamic graph embedding to larger, more complex real-world networks. This has the potential to enable new applications in diverse areas such as social network analysis, financial modeling, and biological system dynamics. The Mamba-based models I introduced present a valuable tool for researchers and practitioners working with time-evolving networks, paving the way for more efficient and effective analysis of complex systems.
+- **Read the paper here:** In review
+
 ## Leadership and Recognitions
 
 - Awarded "Accenture Growth Catalyst Q1 2022" for delivering excellent performance exceeding expectations.
