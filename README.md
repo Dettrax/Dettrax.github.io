@@ -79,8 +79,6 @@ The paper "Xenia - A Smart Tour Planning And Recommendation Using Crowdsourced D
 The paper concludes that the Xenia app successfully achieves its goal of providing users with a comprehensive and interactive tour planning experience. By incorporating personalized recommendations, a virtual tour guide, shopping suggestions, and crowdsourced data, the app empowers users to make informed decisions and optimize their travel itineraries. Additionally, the integration of local businesses contributes to the growth of the local economy and enhances the overall tourism ecosystem. The app's user-friendly interface and seamless functionality further contribute to its effectiveness in simplifying the tour planning process and enriching the travel experience for users.
 
 
-Sources and related content
-
 - **Read the paper here:** [IJRAR1CCP011](https://www.ijrar.org/viewfull.php?&p_id=IJRAR1CCP011)
 
 ### A Comparative Study on Dynamic Graph Embedding based on Mamba and Transformers
