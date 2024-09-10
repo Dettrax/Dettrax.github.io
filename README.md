@@ -100,8 +100,9 @@ In conclusion, my research offers promising directions for scaling dynamic graph
 
 ## Certification
 
-- Bloomberg Market Concepts - [Certificate](https://portal.bloombergforeducation.com/certificates/ZPWL3VNUQ7W4WREGK8BQWABX)
+- Bloomberg Market Concepts - [Bloomberg](https://portal.bloombergforeducation.com/certificates/ZPWL3VNUQ7W4WREGK8BQWABX)
 - Introduction to Relational Databases (RDBMS) - [IBM](https://www.coursera.org/account/accomplishments/verify/T0MCYV8YQDK0)
+- Data Analysis and Visualization with Power BI - [Microsoft](https://www.coursera.org/account/accomplishments/verify/9YP3E3U9ZD18)
 
 ## Contact
 
