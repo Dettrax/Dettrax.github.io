@@ -82,7 +82,7 @@ The paper concludes that the Xenia app successfully achieves its goal of providi
 - **Read the paper here:** [IJRAR1CCP011](https://www.ijrar.org/viewfull.php?&p_id=IJRAR1CCP011)
 
 ### A Comparative Study on Dynamic Graph Embedding based on Mamba and Transformers
-The paper I wrote, titled "A Comparative Study on Dynamic Graph Embedding based on Mamba and Transformers," delves into the exciting field of dynamic graph embedding, which is crucial for understanding the evolving nature of networks in various domains. The key focus of my research was to address the scalability limitations of transformer-based models, which, despite their ability to capture long-range dependencies in temporal graph data, face challenges due to their quadratic computational complexity.
+This paper delves into the exciting field of dynamic graph embedding, which is crucial for understanding the evolving nature of networks in various domains. The key focus of my research was to address the scalability limitations of transformer-based models, which, despite their ability to capture long-range dependencies in temporal graph data, face challenges due to their quadratic computational complexity.
 
 To tackle this, I introduced three novel models: TransformerG2G with graph convolutional networks, MambaG2G, and MambaG2G with graph isomorphism network edge convolutions. The MambaG2G models leverage the state space model architecture, specifically the Mamba model, known for its linear complexity and efficiency in handling long sequences.
 
