@@ -63,6 +63,19 @@ Developed an advanced oil price prediction system combining ARIMA and GARCH mode
 
 ## Publications
 
+### A Comparative Study on Dynamic Graph Embedding based on Mamba and Transformers
+This paper delves into the exciting field of dynamic graph embedding, which is crucial for understanding the evolving nature of networks in various domains. The key focus of my research was to address the scalability limitations of transformer-based models, which, despite their ability to capture long-range dependencies in temporal graph data, face challenges due to their quadratic computational complexity.
+
+To tackle this, I introduced three novel models: TransformerG2G with graph convolutional networks, MambaG2G, and MambaG2G with graph isomorphism network edge convolutions. The MambaG2G models leverage the state space model architecture, specifically the Mamba model, known for its linear complexity and efficiency in handling long sequences.
+
+Through extensive experiments on multiple benchmark datasets, I demonstrated that my Mamba-based models achieve comparable or even superior performance to transformer-based approaches [TransformerG2G](https://arxiv.org/abs/2307.02588) in link prediction tasks. Importantly, they offer significant computational advantages, especially when dealing with longer sequences. The MambaG2G variants consistently outperformed transformer-based models on datasets with high temporal variability, showcasing their ability to capture complex temporal patterns effectively.
+
+Furthermore, I provided insights into the learned temporal dependencies by analyzing attention weights and state matrices, further highlighting the models' capabilities. By effectively combining state-space models with graph neural networks, my work addresses key limitations of previous approaches and contributes to the advancement of efficient temporal graph representation learning.
+
+In conclusion, my research offers promising directions for scaling dynamic graph embedding to larger, more complex real-world networks. This has the potential to enable new applications in diverse areas such as social network analysis, financial modeling, and biological system dynamics. The Mamba-based models I introduced present a valuable tool for researchers and practitioners working with time-evolving networks, paving the way for more efficient and effective analysis of complex systems.
+- **Read the paper here:** In review
+
+
 ### Xenia – A Smart Tour Planning And Recommendation Using Crowdsourced Data
 The paper "Xenia - A Smart Tour Planning And Recommendation Using Crowdsourced Data" presents the design and implementation of a mobile application aimed at enhancing the tour planning experience for users. The app leverages technologies like AI, NLP, and recommender systems to provide personalized tour recommendations and streamline the planning process. The key features of the app include:
 
@@ -81,17 +94,6 @@ The paper concludes that the Xenia app successfully achieves its goal of providi
 
 - **Read the paper here:** [IJRAR1CCP011](https://www.ijrar.org/viewfull.php?&p_id=IJRAR1CCP011)
 
-### A Comparative Study on Dynamic Graph Embedding based on Mamba and Transformers
-This paper delves into the exciting field of dynamic graph embedding, which is crucial for understanding the evolving nature of networks in various domains. The key focus of my research was to address the scalability limitations of transformer-based models, which, despite their ability to capture long-range dependencies in temporal graph data, face challenges due to their quadratic computational complexity.
-
-To tackle this, I introduced three novel models: TransformerG2G with graph convolutional networks, MambaG2G, and MambaG2G with graph isomorphism network edge convolutions. The MambaG2G models leverage the state space model architecture, specifically the Mamba model, known for its linear complexity and efficiency in handling long sequences.
-
-Through extensive experiments on multiple benchmark datasets, I demonstrated that my Mamba-based models achieve comparable or even superior performance to transformer-based approaches [TransformerG2G](https://arxiv.org/abs/2307.02588) in link prediction tasks. Importantly, they offer significant computational advantages, especially when dealing with longer sequences. The MambaG2G variants consistently outperformed transformer-based models on datasets with high temporal variability, showcasing their ability to capture complex temporal patterns effectively.
-
-Furthermore, I provided insights into the learned temporal dependencies by analyzing attention weights and state matrices, further highlighting the models' capabilities. By effectively combining state-space models with graph neural networks, my work addresses key limitations of previous approaches and contributes to the advancement of efficient temporal graph representation learning.
-
-In conclusion, my research offers promising directions for scaling dynamic graph embedding to larger, more complex real-world networks. This has the potential to enable new applications in diverse areas such as social network analysis, financial modeling, and biological system dynamics. The Mamba-based models I introduced present a valuable tool for researchers and practitioners working with time-evolving networks, paving the way for more efficient and effective analysis of complex systems.
-- **Read the paper here:** In review
 
 ## Leadership and Recognitions
 
