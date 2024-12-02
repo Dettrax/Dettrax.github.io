@@ -46,7 +46,7 @@ Developed an advanced oil price prediction system combining ARIMA and GARCH mode
 
 ## Professional Experience
 
-### Teaching Assistant - DS 677 | NJIT | Newark, NJ
+### Teaching Assistant - Deep learning (DS 677) | NJIT | Newark, NJ
 **September 2024 - Present**
 - Grading , Doubt Solving and project managment.
 
