@@ -44,6 +44,9 @@ Developed and implemented a data processing pipeline to systematically extract, 
 ![Stock Price Prediction](assets/imgs/stock-pred.webp)
 Developed an advanced oil price prediction system combining ARIMA and GARCH models for price and volatility Time Series forecasting, respectively. Achieved a 17% performance enhancement over traditional attention mechanisms by integrating the novel MAMBA model. Optimized system performance with LSTM models via Optuna, incorporating XGBoost and leveraging historical data and news sentiments for improved predictive accuracy.
 
+## Conference/Talks
+- Presented research work of MambaG2G at SEA-Crocs 2024, Stanford University.
+  
 ## Professional Experience
 
 ### Teaching Assistant - Deep learning (DS 677) | NJIT | Newark, NJ
@@ -101,7 +104,6 @@ The paper concludes that the Xenia app successfully achieves its goal of providi
 
 ## Leadership and Recognitions
 
-- Presented research work of MambaG2G at SEA-Crocs 2024, Stanford University.
 - Awarded "Accenture Growth Catalyst Q1 2022" for delivering excellent performance exceeding expectations.
 - Received "Accenture Skill Star Award FY22" for best client feedback from State Farm Insurance.
 
