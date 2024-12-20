@@ -80,7 +80,7 @@ Through extensive experiments on multiple benchmark datasets, I demonstrated tha
 Furthermore, I provided insights into the learned temporal dependencies by analyzing attention weights and state matrices, further highlighting the models' capabilities. By effectively combining state-space models with graph neural networks, my work addresses key limitations of previous approaches and contributes to the advancement of efficient temporal graph representation learning.
 
 In conclusion, my research offers promising directions for scaling dynamic graph embedding to larger, more complex real-world networks. This has the potential to enable new applications in diverse areas such as social network analysis, financial modeling, and biological system dynamics. The Mamba-based models I introduced present a valuable tool for researchers and practitioners working with time-evolving networks, paving the way for more efficient and effective analysis of complex systems.
-- **Read the paper here:** In review
+- **Read the paper here:** [MambaG2G](https://arxiv.org/abs/2412.11293)
 
 
 ### Xenia – A Smart Tour Planning And Recommendation Using Crowdsourced Data
