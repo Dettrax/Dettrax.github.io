@@ -4,7 +4,7 @@ Welcome to my portfolio website! This site showcases my skills, projects, and pr
 
 ## About Me
 
-I am a passionate Data Science Master’s student at the New Jersey Institute of Technology. My academic and research journey has been focused on exploring innovative solutions in machine learning, deep learning, and natural language processing. Specifically, I am interested in developing faster alternatives to transformers by leveraging state-space models. As a Research Assistant, I have worked on projects ranging from dynamic graph embedding to Alzheimer’s disease prediction, where I have developed models like MambaG2G that push the boundaries of existing technologies.
+I am a passionate Data Science Master’s student at the New Jersey Institute of Technology. My academic and research journey has been focused on exploring innovative solutions in machine learning, deep learning, and natural language processing. Specifically, I am interested in developing faster alternatives to transformers by leveraging state-space models. As a Research Assistant, I have worked on projects ranging from dynamic graph embedding to Alzheimer’s disease prediction, where I have developed models like DG-Mamba that push the boundaries of existing technologies.
 
 Beyond research, I have practical experience in cloud infrastructure optimization, data pipeline implementation, and software development from my time at Accenture. I am deeply committed to advancing research that not only challenges the status quo but also has a tangible, positive impact on human well-being. Through my work, I strive to contribute to fields that can make a difference in the world.
 
@@ -45,7 +45,8 @@ Developed and implemented a data processing pipeline to systematically extract, 
 Developed an advanced oil price prediction system combining ARIMA and GARCH models for price and volatility Time Series forecasting, respectively. Achieved a 17% performance enhancement over traditional attention mechanisms by integrating the novel MAMBA model. Optimized system performance with LSTM models via Optuna, incorporating XGBoost and leveraging historical data and news sentiments for improved predictive accuracy.
 
 ## Conference/Talks
-- Presented research work of MambaG2G at SEA-Crocs 2024, Stanford University.
+- Presented research work "A Comparative Study on Dynamic Graph Embedding based on Mamba and Transformers"
+ at SEA-CROGS 2024, Stanford University.
   
 ## Professional Experience
 
@@ -55,7 +56,7 @@ Developed an advanced oil price prediction system combining ARIMA and GARCH mode
 
 ### Research Assistant | NJIT | Newark, NJ
 **May 2024 - August 2024**
-- Developed and implemented MambaG2G, an innovative adaptation of the Mamba architecture for dynamic graph embedding, integrating selective state space models to capture complex temporal dependencies. Achieved superior performance compared to [TransformerG2G](https://arxiv.org/abs/2307.02588) on the Temporal Graph Benchmarks , demonstrating improved ability to model long-range interactions and adaptive time-stepping in evolving graph structures.
+- Developed and implemented DG-Mamba and GDG-Mamba, an innovative adaptation of the Mamba architecture for dynamic graph embedding, integrating selective state space models to capture complex temporal dependencies. Achieved superior performance compared to [TransformerG2G](https://arxiv.org/abs/2307.02588) on the Temporal Graph Benchmarks , demonstrating improved ability to model long-range interactions and adaptive time-stepping in evolving graph structures.
 - Engaged in cutting-edge research on Alzheimer's disease prediction using Wulver's High-Performance Computing system, applying advanced deep learning models and selective state-space analysis to fMRI data. This work is poised to transform diagnostic approaches by enhancing early detection capabilities.
 - Leading the development of an innovative hierarchical encoder for JAMBA models, specifically tailored for embedding in hyperbolic spaces. This research aims to revolutionize the handling and analysis of complex network data by leveraging the unique properties of hyperbolic geometry, potentially enhancing the accuracy and efficiency of data representation in LLM applications.
 
@@ -73,14 +74,14 @@ Developed an advanced oil price prediction system combining ARIMA and GARCH mode
 ### A Comparative Study on Dynamic Graph Embedding based on Mamba and Transformers
 This paper delves into the exciting field of dynamic graph embedding, which is crucial for understanding the evolving nature of networks in various domains. The key focus of my research was to address the scalability limitations of transformer-based models, which, despite their ability to capture long-range dependencies in temporal graph data, face challenges due to their quadratic computational complexity.
 
-To tackle this, I introduced three novel models: TransformerG2G with graph convolutional networks, MambaG2G, and MambaG2G with graph isomorphism network edge convolutions. The MambaG2G models leverage the state space model architecture, specifically the Mamba model, known for its linear complexity and efficiency in handling long sequences.
+To tackle this, I introduced three novel models: TransformerG2G with graph convolutional networks, DG-Mamba, and DG-Mamba with graph isomorphism network edge convolutions. The DG-Mamba models leverage the state space model architecture, specifically the Mamba model, known for its linear complexity and efficiency in handling long sequences.
 
-Through extensive experiments on multiple benchmark datasets, I demonstrated that my Mamba-based models achieve comparable or even superior performance to transformer-based approaches [TransformerG2G](https://arxiv.org/abs/2307.02588) in link prediction tasks. Importantly, they offer significant computational advantages, especially when dealing with longer sequences. The MambaG2G variants consistently outperformed transformer-based models on datasets with high temporal variability, showcasing their ability to capture complex temporal patterns effectively.
+Through extensive experiments on multiple benchmark datasets, I demonstrated that my Mamba-based models achieve comparable or even superior performance to transformer-based approaches [TransformerG2G](https://arxiv.org/abs/2307.02588) in link prediction tasks. Importantly, they offer significant computational advantages, especially when dealing with longer sequences. The DG-Mamba variants consistently outperformed transformer-based models on datasets with high temporal variability, showcasing their ability to capture complex temporal patterns effectively.
 
 Furthermore, I provided insights into the learned temporal dependencies by analyzing attention weights and state matrices, further highlighting the models' capabilities. By effectively combining state-space models with graph neural networks, my work addresses key limitations of previous approaches and contributes to the advancement of efficient temporal graph representation learning.
 
 In conclusion, my research offers promising directions for scaling dynamic graph embedding to larger, more complex real-world networks. This has the potential to enable new applications in diverse areas such as social network analysis, financial modeling, and biological system dynamics. The Mamba-based models I introduced present a valuable tool for researchers and practitioners working with time-evolving networks, paving the way for more efficient and effective analysis of complex systems.
-- **Read the paper here:** [MambaG2G](https://arxiv.org/abs/2412.11293)
+- **Read the paper here:** [DG-Mamba](https://arxiv.org/abs/2412.11293)
 
 
 ### Xenia – A Smart Tour Planning And Recommendation Using Crowdsourced Data
