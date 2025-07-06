@@ -76,6 +76,22 @@ Developed an advanced oil price prediction system combining ARIMA and GARCH mode
 
 ## Publications
 
+### Hierarchical Mamba Meets Hyperbolic Geometry: A New Paradigm for Structured Language Embeddings
+This paper presents HiM (Hierarchical Mamba), a novel integration of Mamba2 state-space models with hyperbolic geometry for capturing hierarchical relationships in language. Unlike traditional transformers that embed language in Euclidean space, HiM projects sentence embeddings directly into Poincaré and Lorentzian manifolds using learnable curvature and novel hyperbolic losses. Key innovations include:
+
+SentenceMamba-16M: a lightweight 16M parameter model built with Mamba2, trained for hierarchy-aware sentence embeddings.
+
+Hyperbolic Projections: Learnable tangent-based (Poincaré) and cosine/sine-based (Lorentz) mappings with curvature-constrained stability.
+
+Loss Design: A unique combination of clustering loss and centripetal loss that encourages hierarchy preservation, pushing parent entities closer to the origin and spacing apart unrelated nodes.
+
+Results: Achieved state-of-the-art performance on four ontological datasets (DOID, SNOMED-CT, WordNet, FoodOn) in mixed-hop prediction and multi-hop inference, outperforming Euclidean baselines with better F1 scores and lower variance.
+
+Impact: Demonstrates that Lorentzian embeddings are particularly well-suited for deep hierarchies due to better numerical stability and tighter clustering.
+
+This research opens new directions in structured reasoning and hyperbolic language modeling, with potential extensions to multimodal systems and real-time applications.
+- **Read the paper here:** [HIM](https://arxiv.org/pdf/2505.18973?)
+
 ### A Comparative Study on Dynamic Graph Embedding based on Mamba and Transformers
 This paper delves into the exciting field of dynamic graph embedding, which is crucial for understanding the evolving nature of networks in various domains. The key focus of my research was to address the scalability limitations of transformer-based models, which, despite their ability to capture long-range dependencies in temporal graph data, face challenges due to their quadratic computational complexity.
 
