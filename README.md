@@ -30,7 +30,7 @@ Beyond research, I have practical experience in cloud infrastructure optimizatio
 New Jersey Institute Of Technology, Newark, NJ  
 September 2023 - May 2025
 
-**PhD in Data Science | GPA: **  
+**PhD in Data Science |**  
 New Jersey Institute Of Technology, Newark, NJ  
 September 2025
 
